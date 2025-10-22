@@ -5,7 +5,8 @@ Bu layihənin məqsədi dərman satışlarının analizi və satış meyllərini
 Layihə Power BI vasitəsilə hazırlanmışdır.
 
 ## 🔗 Layihə Linki
-<a>
+- <a href=https://github.com/EsmerMemmedli/Derman-Satisi/blob/main/D%C9%99rman_Sat%C4%B1%C5%9F%C4%B1.pbix>Layihə</a>
+
 ## 📊 İstifadə Olunan Databaza
 
 ## 🧾 İstifadə olunan Məlumatlar
