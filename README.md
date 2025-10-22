@@ -6,13 +6,7 @@ Layihə Power BI vasitəsilə hazırlanmışdır.
 
 ## 🔗 Layihə Linki
 
-
-## 📊 Dashboard Görünüşü
-![Image Alt Text](https://github.com/EsmerMemmedli/Derman-Satisi/blob/main/D%C9%99rman_Sat%C4%B1%C5%9F%C4%B1.png)
-
-
 ## 📊 İstifadə Olunan Databaza
-
 
 ## 🧾 İstifadə olunan Məlumatlar
 - Satış məlumatları 
@@ -28,6 +22,12 @@ Layihə Power BI vasitəsilə hazırlanmışdır.
 ## 🛠️ İstifadə olunan Alətlər
 - Power BI  
 - Microsoft Excel (məlumat təmizlənməsi üçün)
+
+
+## 📊 Dashboard Görünüşü
+![Image Alt Text](https://github.com/EsmerMemmedli/Derman-Satisi/blob/main/D%C9%99rman_Sat%C4%B1%C5%9F%C4%B1.png)
+![Image Alt Text](https://github.com/EsmerMemmedli/Derman-Satisi/blob/main/D%C9%99rman_Sat%C4%B1%C5%9F%C4%B1%20(2).png)
+
 
 ## 📈 Nəticə
 Dashboard vasitəsilə satış performansını izləmək, ən çox gəlir gətirən məhsulları və regionları müəyyənləşdirmək mümkündür.
