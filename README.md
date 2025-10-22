@@ -8,6 +8,7 @@ Layihə Power BI vasitəsilə hazırlanmışdır.
 
 
 ## 📊 Dashboard Görünüşü
+![Image Alt Text](https://github.com/EsmerMemmedli/Derman-Satisi/blob/main/D%C9%99rman_Sat%C4%B1%C5%9F%C4%B1.png)
 
 
 ## 📊 İstifadə Olunan Databaza
