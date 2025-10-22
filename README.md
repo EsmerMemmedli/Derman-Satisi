@@ -5,7 +5,7 @@ Bu layihənin məqsədi dərman satışlarının analizi və satış meyllərini
 Layihə Power BI vasitəsilə hazırlanmışdır.
 
 ## 🔗 Layihə Linki
-
+<a>
 ## 📊 İstifadə Olunan Databaza
 
 ## 🧾 İstifadə olunan Məlumatlar
@@ -23,11 +23,9 @@ Layihə Power BI vasitəsilə hazırlanmışdır.
 - Power BI  
 - Microsoft Excel (məlumat təmizlənməsi üçün)
 
-
 ## 📊 Dashboard Görünüşü
-![Image Alt Text](https://github.com/EsmerMemmedli/Derman-Satisi/blob/main/D%C9%99rman_Sat%C4%B1%C5%9F%C4%B1.png)
 ![Image Alt Text](https://github.com/EsmerMemmedli/Derman-Satisi/blob/main/D%C9%99rman_Sat%C4%B1%C5%9F%C4%B1%20(2).png)
-
+![Image Alt Text](https://github.com/EsmerMemmedli/Derman-Satisi/blob/main/D%C9%99rman_Sat%C4%B1%C5%9F%C4%B1.png)
 
 ## 📈 Nəticə
 Dashboard vasitəsilə satış performansını izləmək, ən çox gəlir gətirən məhsulları və regionları müəyyənləşdirmək mümkündür.
