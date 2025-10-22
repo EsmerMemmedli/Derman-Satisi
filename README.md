@@ -8,6 +8,9 @@ Layihə Power BI vasitəsilə hazırlanmışdır.
 - <a href=https://github.com/EsmerMemmedli/Derman-Satisi/blob/main/D%C9%99rman_Sat%C4%B1%C5%9F%C4%B1.pbix>Layihə</a>
 
 ## 📊 İstifadə Olunan Databaza
+- <a href=https://github.com/EsmerMemmedli/Derman-Satisi/blob/main/Sat%C4%B1%C5%9Flar%20.xlsx>Satışlar Dataset</a>
+- <a href=https://github.com/EsmerMemmedli/Derman-Satisi/blob/main/M%C3%BC%C5%9Ft%C9%99ril%C9%99r.xlsx>Müştərilər dataset</a>
+- <a href=https://github.com/EsmerMemmedli/Derman-Satisi/blob/main/D%C9%99rmanlar.xlsx>Dərmanlar dataset</a>
 
 ## 🧾 İstifadə olunan Məlumatlar
 - Satış məlumatları 
